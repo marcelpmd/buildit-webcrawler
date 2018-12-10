@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn" strict="true" name="BuilditWebcrawler" packages="" monitorInterval="30">
+    <Appenders>
+        <Appender type="Console" name="STDOUT">
+            <Layout type="PatternLayout" pattern="%d{ISO8601}{UTC}Z %p %c{2} %t %m%ex%n"/>
+        </Appender>
+        <RollingRandomAccessFile name="RollingRandomAccessFile" fileName="${sys:logs.dir}/buildit-webcrawler.log"
+                                 filePattern="${sys:logs.dir}/td-client-%d{MM-dd-yyyy}-%i.log.gz">
+            <PatternLayout>
+                <Pattern>%d{ISO8601}{UTC}Z %p %c{2} %t %m%ex%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="250 MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="30"/>
+        </RollingRandomAccessFile>
+    </Appenders>
+    <Loggers>
+        <Logger name="com.buildit" level="info" additivity="false">
+            <AppenderRef ref="RollingRandomAccessFile"/>
+            <AppenderRef ref="STDOUT"/>
+        </Logger>
+        <AsyncRoot level="info" includeLocation="false">
+            <AppenderRef ref="RollingRandomAccessFile"/>
+            <AppenderRef ref="STDOUT"/>
+        </AsyncRoot>
+    </Loggers>
+</Configuration>
