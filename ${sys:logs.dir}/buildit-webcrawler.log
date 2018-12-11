@@ -1,29 +1,12 @@
-2018-12-10T15:32:32,318Z INFO buildit.BuilditWebcrawler main *** Total Visited Internal Links 217 ***
-2018-12-10T15:32:32,321Z INFO buildit.BuilditWebcrawler main *** Total External Links 323 ***
-2018-12-10T15:32:32,322Z INFO buildit.BuilditWebcrawler main *** Total Static Images Scanned 781 ***
-2018-12-10T15:32:32,322Z INFO buildit.BuilditWebcrawler main *** Output File location: target/output.txt ***
-2018-12-10T15:37:12,007Z ERROR buildit.AppConfig main Unable to initialize application configuration 
-2018-12-10T16:27:03,470Z ERROR buildit.AppConfig main Unable to initialize application configuration 
-2018-12-10T16:28:04,962Z ERROR buildit.AppConfig main Unable to initialize application configuration 
-2018-12-10T16:28:39,858Z ERROR buildit.AppConfig main Unable to initialize application configuration 
-2018-12-10T16:29:31,652Z ERROR buildit.AppConfig main Unable to initialize application configuration 
-2018-12-10T16:30:29,887Z ERROR buildit.AppConfig main Unable to initialize application configuration 
-2018-12-10T16:30:53,958Z ERROR buildit.AppConfig main Unable to initialize application configuration 
-2018-12-10T16:31:34,908Z ERROR buildit.AppConfig main Unable to initialize application configuration 
-2018-12-10T16:31:44,494Z ERROR buildit.AppConfig main Unable to initialize application configuration 
-2018-12-10T16:32:29,933Z ERROR buildit.AppConfig main Unable to initialize application configuration 
-2018-12-10T16:38:01,320Z ERROR buildit.AppConfig main Unable to initialize application configuration 
-2018-12-10T16:38:32,167Z ERROR buildit.AppConfig main Unable to initialize application configuration 
-2018-12-10T16:51:52,103Z ERROR buildit.AppConfig main Unable to initialize application configuration /etc/builtit-webcrawler/dev 
-2018-12-10T16:52:25,439Z ERROR buildit.AppConfig main Unable to initialize application configuration /etc/builtit-webcrawler/dev 
-2018-12-10T16:55:25,360Z ERROR buildit.AppConfig main Unable to initialize application configuration /etc/builtit-webcrawler/dev 
-2018-12-10T16:55:59,628Z ERROR buildit.AppConfig main Unable to initialize application configuration /etc/builtit-webcrawler/dev 
-2018-12-10T16:56:19,025Z ERROR buildit.AppConfig main Unable to initialize application configuration /etc/buildit-webcrawler/dev 
-2018-12-10T17:06:47,494Z ERROR buildit.SitemapGenerator main Unable to initialize output file !! 
-2018-12-10T19:41:09,120Z ERROR buildit.SitemapGenerator main Unable to initialize output file !! 
-2018-12-10T20:13:05,394Z ERROR buildit.SitemapGenerator main Unable to initialize output file !! 
-2018-12-10T20:14:45,685Z ERROR buildit.SitemapGenerator main Unable to initialize output file !! 
-2018-12-10T20:16:56,883Z INFO buildit.BuilditWebcrawler main *** Total Visited Internal Links 217 ***
-2018-12-10T20:16:56,888Z INFO buildit.BuilditWebcrawler main *** Total External Links 323 ***
-2018-12-10T20:16:56,888Z INFO buildit.BuilditWebcrawler main *** Total Static Images Scanned 781 ***
-2018-12-10T20:16:56,888Z INFO buildit.BuilditWebcrawler main *** Output File location: /opt/buildit-webcrawler/output.txt ***
+2018-12-11T19:02:16,147Z ERROR buildit.AppConfig main Unable to initialize application configuration null 
+2018-12-11T19:04:04,656Z ERROR buildit.AppConfig main Unable to initialize application configuration env/dev/dev 
+2018-12-11T19:05:24,801Z ERROR buildit.AppConfig main Unable to initialize application configuration env/dev/dev 
+2018-12-11T19:18:44,784Z ERROR buildit.AppConfig main Unable to initialize application configuration null 
+2018-12-11T19:48:58,520Z ERROR buildit.BuilditWebcrawler main Unable to initialize application with URL null 
+2018-12-11T19:49:17,944Z ERROR buildit.BuilditWebcrawler main Unable to initialize application with URL null 
+2018-12-11T19:49:55,533Z ERROR buildit.BuilditWebcrawler main Unable to initialize application with URL null 
+2018-12-11T19:56:06,812Z ERROR buildit.BuilditWebcrawler main Unable to initialize application with URL null 
+2018-12-11T19:56:28,304Z ERROR buildit.BuilditWebcrawler main Unable to initialize application with URL null 
+2018-12-11T19:57:11,868Z ERROR buildit.BuilditWebcrawler main Error, Missing URL !! Please provide a URL to docker-entrypoint.sh (Ex. http://google.com
+2018-12-11T19:58:26,151Z ERROR buildit.BuilditWebcrawler main Unable to initialize application with URL htt://wipro.com 
+2018-12-11T20:00:03,968Z ERROR buildit.BuilditWebcrawler main Unable to initialize application with URL htt://wipro.com 

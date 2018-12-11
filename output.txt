@@ -76,6 +76,10 @@ https://wiprodigital.com/tag/ux/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
+https://wiprodigital.com/tag/adobe-xd/
+	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
+	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
+	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
 https://wiprodigital.com/what-we-do/#work-three-circles-row
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
@@ -164,6 +168,11 @@ https://wiprodigital.com/?s=&post_type[]=news
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
+https://wiprodigital.com/2018/12/11/designing-for-emergencies/
+	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
+	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
+	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
+	https://s17776.pcdn.co/wp-content/uploads/2018/12/Author-Thomas-Küber.jpg
 https://wiprodigital.com/2018/12/04/sci-fi-prototyping-illuminates-future-scenarios-that-science-cant-map/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://cdn-images-1.medium.com/max/600/1*qEhl5f3V8uWK9dlKQy6B3g.png
@@ -193,6 +202,10 @@ https://wiprodigital.com/2018/08/30/rethinking-service-blueprints-for-agile-deli
 	https://s17776.pcdn.co/wp-content/uploads/2018/08/Paul-Harrison-Rethinking-Service-Blueprints-for-Agile-Delivery-2.jpg
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
 	https://s17776.pcdn.co/wp-content/uploads/2018/08/Paul-Harrison-Rethinking-Service-Blueprints-for-Agile-Delivery-1.png
+https://wiprodigital.com/tag/crisis-management/
+	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
+	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
+	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
 https://wiprodigital.com/join-our-team/#wdwork-vid
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
@@ -342,10 +355,6 @@ https://wiprodigital.com/tag/fsm/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
-https://wiprodigital.com/news/wipro-alfresco-expand-partnership-to-offer-open-source-based-digital-transformation-capabilities/
-	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
-	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
-	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
 http://vision2030.wiprodigital.com/#welcome
 	http://vision2030.wiprodigital.com/assets/images/wipro-logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
@@ -388,6 +397,11 @@ https://wiprodigital.com/tag/future-experiences/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
 https://wiprodigital.com/tag/film/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
+	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
+	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
+https://wiprodigital.com/news/wipro-digital-to-expand-asia-pacific-design-capabilities-in-australia/
+	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
+	https://s17776.pcdn.co/wp-content/uploads/2018/12/News-Wipro-Digital-to-expand-Asia-Pacific-design-capabilities-in-Australia-1024x626.jpg
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
 https://wiprodigital.com/cases/in24-insure/
@@ -434,6 +448,10 @@ https://wiprodigital.com/tag/b2b/
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
 https://wiprodigital.com/what-we-do/#masthead
+	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
+	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
+	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
+https://wiprodigital.com/tag/design-challenge/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
@@ -492,17 +510,17 @@ https://wiprodigital.com/#EvtcontntAggr
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
+https://wiprodigital.com/2017/06/01/a-crisis-in-digital-transformation-a-survey-of-400-us-senior-executives/
+	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
+	https://s17776.pcdn.co/wp-content/uploads/2016/06/Author-Alexander-Beal.jpg
+	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
+	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
 https://wiprodigital.com/2018/11/08/applying-design-thinking-to-build-foundations-for-b2b-marketing-success/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/uploads/2018/06/Author-Namit-Bhargav.jpg
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
 	https://s17776.pcdn.co/wp-content/uploads/2018/11/Insights-Applying-design-thinking-to-build-foundations-for-B2B-marketing-success-1.png
-https://wiprodigital.com/2017/06/01/a-crisis-in-digital-transformation-a-survey-of-400-us-senior-executives/
-	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
-	https://s17776.pcdn.co/wp-content/uploads/2016/06/Author-Alexander-Beal.jpg
-	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
-	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
 https://wiprodigital.com/2018/08/21/what-is-the-roi-on-management-asks-alan-cooper/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
@@ -607,11 +625,11 @@ https://wiprodigital.com/partners/apporbit/
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
 	https://s17776.pcdn.co/wp-content/uploads/2016/09/apporbit.png
-https://wiprodigital.com/tag/design-thinking/
+https://wiprodigital.com/tag/human-computer-interactions/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
-https://wiprodigital.com/tag/human-computer-interactions/
+https://wiprodigital.com/tag/design-thinking/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
@@ -742,11 +760,11 @@ https://wiprodigital.com/tag/design/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
-https://wiprodigital.com/tag/ai-chatbot/
+https://wiprodigital.com/tag/martech/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
-https://wiprodigital.com/tag/martech/
+https://wiprodigital.com/tag/ai-chatbot/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
@@ -931,11 +949,11 @@ https://wiprodigital.com/cases/in24-bankside/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
-https://wiprodigital.com/tag/marketing/
+https://wiprodigital.com/tag/predictive-analytics/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
-https://wiprodigital.com/tag/predictive-analytics/
+https://wiprodigital.com/tag/marketing/
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png
 	https://dc.ads.linkedin.com/collect/?pid=225025&fmt=gif
 	https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk.png
@@ -973,6 +991,7 @@ https://www.facebook.com/dialog/share?app_id=785186781583414&display=popup&href=
 https://youtu.be/c_uknB5JVgA
 https://www.thinkwithgoogle.com/advertising-channels/search/the-digital-journey-to-wellness-hospital-selection/
 mailto:rabeb@ruderfinn.com
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-digital-to-expand-asia-pacific-design-capabilities-in-australia%2F&title=Wipro Digital to expand Asia Pacific design capabilities in Australia&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-digital-to-expand-asia-pacific-design-capabilities-in-australia%2F&source=wiprodigital.com
 https://images.forbes.com/forbesinsights/StudyPDFs/KPMG_Transformation_Report.pdf
 https://www.beckersasc.com/asc-coding-billing-and-collections/7-statistics-on-healthcare-consumer-payment-trends.html
 http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F11%2F08%2Fapplying-design-thinking-to-build-foundations-for-b2b-marketing-success%2F&hashtags=wiprodigital
@@ -1003,7 +1022,6 @@ http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.co
 https://www.linkedin.com/in/surbhat/
 https://www.salesforce.com/products/service-cloud/features/knowledge-base/
 https://twitter.com/cliffkuang?lang=en
-https://www.alfresco.com/
 https://www.facebook.com/dialog/share?app_id=785186781583414&display=popup&href=https%3A%2F%2Fwiprodigital.com%2F2018%2F09%2F27%2Frethinking-customer-experience-in-the-expectation-economy%2F
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F07%2F26%2Fcaas-102-getting-started-with-content-as-a-service%2F&title=CaaS 102: Getting Started with Content as a Service&summary=https%3A%2F%2Fwiprodigital.com%2F2018%2F07%2F26%2Fcaas-102-getting-started-with-content-as-a-service%2F&source=wiprodigital.com
 https://www.theguardian.com/technology/2016/jan/28/driverless-bus-trial-in-netherlands-will-be-first-on-public-roads
@@ -1025,7 +1043,6 @@ http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.co
 https://www.linkedin.com/in/jeremy-leach-6707963
 http://landbot.io/
 http://junkcharts.typepad.com/numbersruleyourworld
-http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-alfresco-expand-partnership-to-offer-open-source-based-digital-transformation-capabilities%2F&title=Wipro, Alfresco Expand Partnership to Offer Open Source Based Digital Transformation Capabilities&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-alfresco-expand-partnership-to-offer-open-source-based-digital-transformation-capabilities%2F&source=wiprodigital.com
 https://www.linkedin.com/in/alexbeal
 https://twitter.com/mrjfleach
 https://www.linkedin.com/in/alexander-kalinovsky-61a2862/
@@ -1035,8 +1052,8 @@ http://www.biz2credit.in/
 https://medium.designit.com/17-things-to-read-follow-or-watch-for-designers-who-want-to-understand-how-tech-will-shape-our-15f17c51bd6#
 http://designit.com/
 https://www.kyruus.com/news/kyruus-to-extend-capabilities-of-salesforce-health-cloud-with-providermatch
-http://www.sec.gov
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Fnate-clinton-managing-director-cooper-at-sf-design-week-2018%2F&title=Nate Clinton, Managing Director, Designit at SF Design Week 2018&summary=https%3A%2F%2Fwiprodigital.com%2Fevents%2Fnate-clinton-managing-director-cooper-at-sf-design-week-2018%2F&source=wiprodigital.com
+http://www.sec.gov
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F09%2F13%2F17-things-to-follow-for-designers-who-want-to-understand-how-tech-will-shape-our-future%2F&title=17 things to follow for designers who want to understand how tech will shape our future&summary=https%3A%2F%2Fwiprodigital.com%2F2018%2F09%2F13%2F17-things-to-follow-for-designers-who-want-to-understand-how-tech-will-shape-our-future%2F&source=wiprodigital.com
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2017%2F02%2F21%2Fwhitepaper-introducing-aws-to-a-large-fs-organisation%2F&title=Buildit@WiproDigital: Introducing AWS to a Large FS Organisation&summary=https%3A%2F%2Fwiprodigital.com%2F2017%2F02%2F21%2Fwhitepaper-introducing-aws-to-a-large-fs-organisation%2F&source=wiprodigital.com
 https://www.designit.com/work/make-money-matter
@@ -1068,14 +1085,12 @@ https://www.facebook.com/dialog/share?app_id=785186781583414&display=popup&href=
 http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Fteresa-brazen-senior-director-cooper-at-design-thinking-2018%2F&hashtags=wiprodigital
 https://www.equipmentworld.com/cats-fleet-of-autonomous-mine-trucks-is-about-to-get-a-lot-bigger/
 https://www.media.mit.edu/posts/wired-columns/
-https://www.facebook.com/dialog/share?app_id=785186781583414&display=popup&href=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-alfresco-expand-partnership-to-offer-open-source-based-digital-transformation-capabilities%2F
 http://www.pac-online/blog
 https://www.youtube.com/watch?v=4jrhw_ZRjV4
 https://venturebeat.com/2017/02/24/embark-launches-self-driving-truck-technology/
 https://www.theverge.com/2018/3/9/17100518/waymo-self-driving-truck-google-atlanta
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F11%2F13%2Fthe-rise-of-industrial-autonomous-vehicles%2F&title=The rise of industrial autonomous vehicles&summary=https%3A%2F%2Fwiprodigital.com%2F2018%2F11%2F13%2Fthe-rise-of-industrial-autonomous-vehicles%2F&source=wiprodigital.com
 https://techcrunch.com/2017/06/06/lyft-and-nutonomy-partner-to-bring-first-self-driving-lyft-service-to-boston/
-http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-alfresco-expand-partnership-to-offer-open-source-based-digital-transformation-capabilities%2F&hashtags=wiprodigital
 http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F10%2F04%2Fthree-ways-to-navigate-your-data-science-journey%2F&hashtags=wiprodigital
 https://www.facebook.com/dialog/share?app_id=785186781583414&display=popup&href=https%3A%2F%2Fwiprodigital.com%2Fevents%2Fnate-clinton-managing-director-cooper-at-sf-design-week-2018%2F
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-digital-acquire-cooper-leader-ux-interaction-design-expand-designits-capabilities%2F&title=Wipro Digital to Acquire Cooper, a Leader in UX and Interaction Design, and Expand Designit’s Capabilities&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-digital-acquire-cooper-leader-ux-interaction-design-expand-designits-capabilities%2F&source=wiprodigital.com
@@ -1100,17 +1115,21 @@ mailto:mulliganb@ruderfinn.com
 https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/?cn-reloaded=1
 https://www.linkedin.com/in/rahul-shah-218a782
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F08%2F30%2Frethinking-service-blueprints-for-agile-delivery%2F&title=Rethinking Service Blueprints for Agile Delivery&summary=https%3A%2F%2Fwiprodigital.com%2F2018%2F08%2F30%2Frethinking-service-blueprints-for-agile-delivery%2F&source=wiprodigital.com
+http://www.sec.gov/
 https://www.topcoder.com/
 https://www.forumforthefuture.org/
 https://www.economist.com/business/2017/12/07/rio-tinto-puts-its-faith-in-driverless-trucks-trains-and-drilling-rigs
 https://support.google.com/chrome/answer/95647?co=GENIE.Platform=Desktop&hl=en
 http://www.volusense.com/
 https://twitter.com/rahulshahtweets
+https://twitter.com/Designit
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Fmeet-wipro-digital-at-pega-customer-engagement-summit-2018%2F&title=Meet Wipro Digital at PEGA Customer Engagement Summit 2018&summary=https%3A%2F%2Fwiprodigital.com%2Fevents%2Fmeet-wipro-digital-at-pega-customer-engagement-summit-2018%2F&source=wiprodigital.com
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F06%2F19%2F3-conversations-around-innovation-and-entrepreneurship-from-collision-2018%2F&title=3 Conversations Around Innovation and Entrepreneurship From Collision 2018&summary=https%3A%2F%2Fwiprodigital.com%2F2018%2F06%2F19%2F3-conversations-around-innovation-and-entrepreneurship-from-collision-2018%2F&source=wiprodigital.com
 https://twitter.com/designit
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fcases%2Fcase-study-speaking-from-the-heart%2F&title=Call Me: Speaking From the Heart&summary=https%3A%2F%2Fwiprodigital.com%2Fcases%2Fcase-study-speaking-from-the-heart%2F&source=wiprodigital.com
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-digital-to-expand-asia-pacific-design-capabilities-in-australia%2F&hashtags=wiprodigital
 https://springoneplatform.io/
+https://www.facebook.com/dialog/share?app_id=785186781583414&display=popup&href=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-digital-to-expand-asia-pacific-design-capabilities-in-australia%2F
 http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F09%2F13%2F17-things-to-follow-for-designers-who-want-to-understand-how-tech-will-shape-our-future%2F&hashtags=wiprodigital
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fnew-survey-highlights-leadership-crisis-digital-transformation%2F&title=New Survey Highlights Leadership Crisis in Digital Transformation&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fnew-survey-highlights-leadership-crisis-digital-transformation%2F&source=wiprodigital.com
 https://www.healthleadersmedia.com/innovation/assessing-online-scheduling-emerging-trend-scheduling-physician-appointments
@@ -1126,6 +1145,7 @@ http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2
 http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F11%2F20%2Fthe-meaning-of-motion%2F&hashtags=wiprodigital
 http://priority.wiki/
 https://twitter.com/hashtag/springone
+https://www.facebook.com/dialog/share?app_id=785186781583414&display=popup&href=https%3A%2F%2Fwiprodigital.com%2F2018%2F12%2F11%2Fdesigning-for-emergencies%2F
 https://www.facebook.com/dialog/share?app_id=785186781583414&display=popup&href=https%3A%2F%2Fwiprodigital.com%2Fevents%2Fteresa-brazen-senior-director-cooper-at-design-thinking-2018%2F
 https://twitter.com/madhu7173
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2017%2F12%2F05%2Fmaking-business-transformation-a-smash-hit%2F&title=Making Business Transformation a Smash Hit&summary=https%3A%2F%2Fwiprodigital.com%2F2017%2F12%2F05%2Fmaking-business-transformation-a-smash-hit%2F&source=wiprodigital.com
@@ -1147,6 +1167,7 @@ https://www.linkedin.com/company/pierre-audoin-consultants?trk=company_logo
 https://www.gartner.com/smarterwithgartner/2017-2018-gartner-cmo-spend-survey/
 http://www.datastax.com/
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-named-global-leader-digital-transformation-strategy-consulting%2F&title=Wipro Named  Global Leader in Digital Transformation Strategy and Consulting&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-named-global-leader-digital-transformation-strategy-consulting%2F&source=wiprodigital.com
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F12%2F11%2Fdesigning-for-emergencies%2F&title=Designing for emergencies&summary=https%3A%2F%2Fwiprodigital.com%2F2018%2F12%2F11%2Fdesigning-for-emergencies%2F&source=wiprodigital.com
 http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Fnate-clinton-managing-director-cooper-at-sf-design-week-2018%2F&hashtags=wiprodigital
 mailto:purnima.burman@wipro.com
 https://youtu.be/kfT14wdP6Go
@@ -1182,8 +1203,8 @@ https://twitter.com/ritupg
 https://designthinkingusa.iqpc.com
 http://www.cisco.com/
 https://twitter.com/kiran_minnas
-http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F11%2F15%2Fmaking-health-insurance-conversational-insights-from-chatbot-design%2F&hashtags=wiprodigital
 https://engagecustomer.com/turning-data-into-consumer-growth/
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F11%2F15%2Fmaking-health-insurance-conversational-insights-from-chatbot-design%2F&hashtags=wiprodigital
 https://www.forrester.com/B2B
 https://www.theverge.com/2018/5/31/17412908/waymo-chrysler-pacifica-minvan-self-driving-fleet
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fcases%2Fdigital-transformation-a-case-study-of-technological-intervention%2F&title=Digital Transformation: A Case Study of Technological Intervention&summary=https%3A%2F%2Fwiprodigital.com%2Fcases%2Fdigital-transformation-a-case-study-of-technological-intervention%2F&source=wiprodigital.com
@@ -1231,8 +1252,8 @@ http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2
 https://qz.com/1322279/40-books-tv-shows-and-movies-for-people-who-care-about-the-future-of-tech/
 https://aws.amazon.com/servicecatalog/
 http://www.thameswater.co.uk/
-https://www.gartner.com/smarterwithgartner/what-sales-should-know-about-modern-b2b-buyers/
 http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Fjoin-wipro-digital-for-two-iot-panels-at-world-economic-forum-wef%2F&hashtags=wiprodigital
+https://www.gartner.com/smarterwithgartner/what-sales-should-know-about-modern-b2b-buyers/
 https://hbr.org/2016/02/what-do-you-really-mean-by-business-transformation
 https://www.facebook.com/dialog/share?app_id=785186781583414&display=popup&href=https%3A%2F%2Fwiprodigital.com%2F2017%2F02%2F21%2Fwhitepaper-introducing-aws-to-a-large-fs-organisation%2F
 https://pivotal.io/
@@ -1249,6 +1270,7 @@ https://medium.designit.com/
 http://bit.ly/2rIwO6Z
 http://bit.ly/2rWa6YM
 https://www.linkedin.com/in/mukundkalmanker
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F12%2F11%2Fdesigning-for-emergencies%2F&hashtags=wiprodigital
 http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2017%2F06%2F01%2Fa-crisis-in-digital-transformation-a-survey-of-400-us-senior-executives%2F&hashtags=wiprodigital
 http://juliezhuo.com/design/mailinglist.html
 https://www.linkedin.com/company/wipro-digital/
@@ -1261,7 +1283,6 @@ https://www.superoffice.com/blog/customer-experience-statistics/
 https://t.co/x334Sp05s2
 https://www.facebook.com/dialog/share?app_id=785186781583414&display=popup&href=https%3A%2F%2Fwiprodigital.com%2F2018%2F12%2F06%2Fhow-salesforce-brings-a-better-customer-experience-to-healthcare%2F
 https://www.nytimes.com/2010/10/05/business/05road.html
-mailto:neil.thomas@grayling.com
 https://2018.sfdesignweek.org/
 https://s17776.pcdn.co/wp-content/uploads/2018/08/Paul-Harrison-Rethinking-Service-Blueprints-for-Agile-Delivery-2.jpg
 https://www.amazon.com/These-Truths-History-United-States/dp/0393635244/ref=sr_1_1?s=books&ie=UTF8&qid=1533665949&sr=1-1&keywords=jill+lepore
@@ -1271,8 +1292,8 @@ http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.co
 https://www.linkedin.com/in/sandhyararun
 https://www.linkedin.com/in/mnmurthy
 https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
-https://www.facebook.com/dialog/share?app_id=785186781583414&display=popup&href=https%3A%2F%2Fwiprodigital.com%2F2018%2F09%2F17%2Fprescriptive-maintenance-the-future-of-asset-management%2F
 mailto:vipin.nair1@wipro.com
+https://www.facebook.com/dialog/share?app_id=785186781583414&display=popup&href=https%3A%2F%2Fwiprodigital.com%2F2018%2F09%2F17%2Fprescriptive-maintenance-the-future-of-asset-management%2F
 https://www.thecipherbrief.com/about-us
 http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2017%2F02%2F21%2Fwhitepaper-introducing-aws-to-a-large-fs-organisation%2F&hashtags=wiprodigital
 https://legal.twitter.com/ads-terms/us.html#twitteradsprogramt%26cs
@@ -1281,9 +1302,10 @@ http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.co
 https://twitter.com/beal_a
 https://www.facebook.com/dialog/share?app_id=785186781583414&display=popup&href=https%3A%2F%2Fwiprodigital.com%2F2018%2F08%2F21%2Fwhat-is-the-roi-on-management-asks-alan-cooper%2F
 http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2018%2F12%2F04%2Fsci-fi-prototyping-illuminates-future-scenarios-that-science-cant-map%2F&title=Sci-fi Prototyping Illuminates Future Scenarios that Science Can’t Map.&summary=https%3A%2F%2Fwiprodigital.com%2F2018%2F12%2F04%2Fsci-fi-prototyping-illuminates-future-scenarios-that-science-cant-map%2F&source=wiprodigital.com
+https://www.ushahidi.com/
 https://www.facebook.com/business/help/651294705016616?helpref=faq_content
 https://medium.designit.com/alan-cooper-on-designing-the-future-676705db2cf6
-2018-12-10T20:24:34,929Z INFO buildit.BuilditWebcrawler main *** Total Visited Internal Links 217 ***
-2018-12-10T20:24:34,933Z INFO buildit.BuilditWebcrawler main *** Total External Links 323 ***
-2018-12-10T20:24:34,933Z INFO buildit.BuilditWebcrawler main *** Total Static Images Scanned 781 ***
-2018-12-10T20:24:34,934Z INFO buildit.BuilditWebcrawler main *** Output File location: /opt/buildit-webcrawler/output.txt ***
+2018-12-11T20:32:32,497Z INFO buildit.BuilditWebcrawler main *** Total Visited Internal Links 221 ***
+2018-12-11T20:32:32,498Z INFO buildit.BuilditWebcrawler main *** Total External Links 327 ***
+2018-12-11T20:32:32,498Z INFO buildit.BuilditWebcrawler main *** Total Static Images Scanned 796 ***
+2018-12-11T20:32:32,498Z INFO buildit.BuilditWebcrawler main *** Output File location: /opt/buildit-webcrawler/output.txt ***
