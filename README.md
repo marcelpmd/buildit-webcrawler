@@ -11,6 +11,17 @@ https://download.docker.com/mac/stable/Docker.dmg
 ```
 docker run marcelpmd/buildit-webcrawler:latest http://wiprodigital.com > output.txt
 ```
+
+### Install Maven
+```
+brew install maven
+```
+
+### Run Tests
+```
+mvn clean test
+```
+
 ### Reasoning
 
 This solution demonstrates a basic understanding and implementation of necessary software components used in practice
