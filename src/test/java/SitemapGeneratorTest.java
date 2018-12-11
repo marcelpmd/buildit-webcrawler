@@ -1,6 +1,5 @@
 import com.buildit.AppConfig;
 import com.buildit.SitemapGenerator;
-import com.oracle.tools.packager.IOUtils;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
