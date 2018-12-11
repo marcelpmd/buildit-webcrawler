@@ -51,6 +51,12 @@ public class SitemapGenerator {
         }
     }
 
+    public void close() throws IOException {
+        if(bw != null){
+            bw.close();
+        }
+    }
+
     public String getOutputLoc() {
         return outputLoc;
     }

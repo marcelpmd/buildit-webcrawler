@@ -9,7 +9,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
+import java.net.MalformedURLException;
 import java.net.URL;
+import java.net.UnknownHostException;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
@@ -17,6 +19,7 @@ import java.util.Scanner;
 public class BuilditWebcrawler {
 
     private static Logger log = LoggerFactory.getLogger(BuilditWebcrawler.class);
+
     private HashSet<String> internalLinks;
     private HashSet<String> externalLinks;
     private HashMap<String, HashSet<String>> pageResources;
@@ -32,9 +35,12 @@ public class BuilditWebcrawler {
     }
 
     private void init(String url) {
+        if (url == null) {
+            throw new IllegalArgumentException("Valid URL is required");
+        }
         try {
             crawlUrl = new URL(url);
-        } catch (IOException e) {
+        } catch (MalformedURLException e) {
             log.error("Unable to initialize application with URL {} ", url, e.getMessage());
             System.exit(-1);
         }
@@ -46,7 +52,9 @@ public class BuilditWebcrawler {
         gen = new SitemapGenerator();
     }
 
-    ;
+    public Document connectToUrl(String url) throws IOException {
+        return Jsoup.connect(url).get();
+    }
 
     public void getCurrentLinks(URL url) {
         if (!internalLinks.contains(url.toString()) && isLinkInDomain(url)) {
@@ -54,7 +62,7 @@ public class BuilditWebcrawler {
             try {
                 String stringUrl = url.toString();
                 internalLinks.add(stringUrl);
-                Document document = Jsoup.connect(stringUrl).get();
+                Document document = connectToUrl(stringUrl);
                 pb.step();
                 Elements imgSources = document.select("img");
                 for (Element img : imgSources) {
@@ -96,6 +104,11 @@ public class BuilditWebcrawler {
             System.out.println(x);
             gen.writeLineToFile(x);
         });
+        try {
+            gen.close();
+        } catch (IOException e) {
+            log.error("Unable to close stream", e.getMessage());
+        }
         log.info("*** Total Visited Internal Links {} ***", internalLinks.size());
         log.info("*** Total External Links {} ***", externalLinks.size());
         log.info("*** Total Static Images Scanned {} ***", imgCount);
@@ -106,6 +119,55 @@ public class BuilditWebcrawler {
     private boolean isLinkInDomain(URL url) {
         return url.getHost().contains(crawlUrl.getHost());
     }
+
+    public HashSet<String> getInternalLinks() {
+        return internalLinks;
+    }
+
+    public void setInternalLinks(HashSet<String> internalLinks) {
+        this.internalLinks = internalLinks;
+    }
+
+    public HashSet<String> getExternalLinks() {
+        return externalLinks;
+    }
+
+    public void setExternalLinks(HashSet<String> externalLinks) {
+        this.externalLinks = externalLinks;
+    }
+
+    public HashMap<String, HashSet<String>> getPageResources() {
+        return pageResources;
+    }
+
+    public void setPageResources(HashMap<String, HashSet<String>> pageResources) {
+        this.pageResources = pageResources;
+    }
+
+    public HashSet<String> getBrokenLinks() {
+        return brokenLinks;
+    }
+
+    public void setBrokenLinks(HashSet<String> brokenLinks) {
+        this.brokenLinks = brokenLinks;
+    }
+
+    public int getImgCount() {
+        return imgCount;
+    }
+
+    public void setImgCount(int imgCount) {
+        this.imgCount = imgCount;
+    }
+
+    public URL getCrawlUrl() {
+        return crawlUrl;
+    }
+
+    public void setCrawlUrl(URL crawlUrl) {
+        this.crawlUrl = crawlUrl;
+    }
+
 
     public static void main(String[] args) {
         if (args.length == 0) {
