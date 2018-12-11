@@ -1305,7 +1305,7 @@ http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.co
 https://www.ushahidi.com/
 https://www.facebook.com/business/help/651294705016616?helpref=faq_content
 https://medium.designit.com/alan-cooper-on-designing-the-future-676705db2cf6
-2018-12-11T20:32:32,497Z INFO buildit.BuilditWebcrawler main *** Total Visited Internal Links 221 ***
-2018-12-11T20:32:32,498Z INFO buildit.BuilditWebcrawler main *** Total External Links 327 ***
-2018-12-11T20:32:32,498Z INFO buildit.BuilditWebcrawler main *** Total Static Images Scanned 796 ***
-2018-12-11T20:32:32,498Z INFO buildit.BuilditWebcrawler main *** Output File location: /opt/buildit-webcrawler/output.txt ***
+2018-12-11T21:20:32,292Z INFO buildit.BuilditWebcrawler main *** Total Visited Internal Links 221 ***
+2018-12-11T21:20:32,292Z INFO buildit.BuilditWebcrawler main *** Total External Links 327 ***
+2018-12-11T21:20:32,293Z INFO buildit.BuilditWebcrawler main *** Total Static Images Scanned 796 ***
+2018-12-11T21:20:32,293Z INFO buildit.BuilditWebcrawler main *** Output File location: /opt/buildit-webcrawler/output.txt ***

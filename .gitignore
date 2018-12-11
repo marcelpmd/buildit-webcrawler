@@ -1,0 +1,3 @@
+/.idea/*
+target/*
+${sys:logs.dir}/*
